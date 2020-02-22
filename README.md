@@ -1,2 +1,2 @@
 # hello-world
-Firs time using GitHub
+I am Auwal Muhammad Sani, A student of Computer Science. I am a Tech Enthusiast and an Educationis.
